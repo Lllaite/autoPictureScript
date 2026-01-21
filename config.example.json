@@ -1,0 +1,10 @@
+{
+	"website_url": "example.com",
+	"textarea_selector": "textarea.ant-input",
+	"submit_selector": "button.send-button, [type='submit']",
+	"wait_time": 10,
+	"browser": "chrome",
+	"headless": false,
+	"output_dir": "screenshots",
+	"keep_browser_open": false
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\12521\\\\Desktop\\\\test question\\\\screenshots\")",
+      "Bash(python create_excel.py:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
